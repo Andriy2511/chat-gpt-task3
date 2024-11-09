@@ -1,0 +1,7 @@
+Task 3
+Healthcare Management Application: Develop a healthcare management system using Spring Boot and REST services.
+The application should allow healthcare providers to manage patient records, schedule appointments, and prescribe medication.
+The system should also integrate with a third-party service, such as Google Maps, to provide directions to healthcare facilities.
+
+ChatGPT conversation:
+https://chatgpt.com/share/672e44d8-5374-800b-bdc3-c5713c821443
